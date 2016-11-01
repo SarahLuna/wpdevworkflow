@@ -2,6 +2,9 @@
 
 Github project link: https://github.com/copyblogger/genesis-sample
 
+## Notes
+This is a line added in by Sarah Luna.
+
 
 ## Installation Instructions
 
